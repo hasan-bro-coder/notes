@@ -1,0 +1,72 @@
+---
+
+kanban-plugin: board
+tags:
+  - kanban
+
+---
+
+## Game
+
+- [ ] tutorial
+- [ ] trailer
+- [ ] market
+- [ ] publish
+- [ ] update support
+- [ ] monitization
+- [ ] story
+- [ ] settings
+
+
+## Mechanics
+
+- [x] bike movement
+- [ ] guns
+- [ ] enemies
+- [ ] map
+- [ ] tricks
+- [x] ramps
+- [ ] obstacles
+- [ ] bosses
+- [ ] main menu
+- [ ] level editor
+- [ ] infinite map
+- [ ] shop
+- [ ] shop-outfit
+- [ ] shop-bikes
+- [ ] google play save
+- [ ] rewarded ads
+- [ ] pickables
+- [ ] coin system
+- [ ] achivements
+- [ ] style and coin system
+
+
+## Visuals
+
+- [ ] biker
+- [ ] sky
+- [ ] bikes
+- [ ] outfit
+- [ ] obstacles
+- [ ] ramp
+- [ ] ui
+
+
+## Sounds
+
+- [ ] main menu music
+- [ ] theme
+- [ ] shop music
+- [ ] gun sfx
+- [ ] bike sfx
+- [ ] damage sfx
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+```
+%%
