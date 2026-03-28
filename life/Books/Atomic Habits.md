@@ -6,5 +6,9 @@ this was one of the first book i read . i read it as an in ebook cause i pirated
 4. habits help you become the person you want to be
 5. habit built by 4 thing: cue,craving,response,reward
 6. to build havits or break havits change those 4 things
-7. cue: be aware of what your doing list your habits ,make cue obvious with time and location,habit stack to create cues for new habits
+7. cue: 
+    1.    be aware of what your doing what are your cues and habit
+    2. make cue obvious with time and location
+    3. habit stack to create cues for new habits (after \[habit\] do \[new habit\]).  
+    4. associate cue with context 
 8. craving: 
