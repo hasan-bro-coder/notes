@@ -36,7 +36,7 @@ tags:
 - [ ] shop-bikes
 - [ ] google play save
 - [ ] rewarded ads
-- [ ] pickables
+- [x] pickables
 - [ ] coin system
 - [ ] achivements
 - [ ] style and coin system
