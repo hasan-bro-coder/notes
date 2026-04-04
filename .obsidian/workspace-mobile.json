@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/Books/Atomic Habits.md",
+                "file": "study/Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomic Habits"
+              "title": "Study"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "life/Books/Atomic Habits.md",
+            "file": "study/Study.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,10 +170,12 @@
   },
   "active": "bb64909dab2e0c02",
   "lastOpenFiles": [
-    "life/Books.md",
     "games/On The Run Kanban.md",
-    "games/On The Run.md",
+    "study/Study.md",
+    "study",
     "life/Books/Atomic Habits.md",
+    "life/Books.md",
+    "games/On The Run.md",
     "life/Names Of Allah.md",
     "life/Books",
     "life/Games.md"

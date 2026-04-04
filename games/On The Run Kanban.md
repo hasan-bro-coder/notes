@@ -21,7 +21,7 @@ tags:
 ## Mechanics
 
 - [x] bike movement
-- [ ] guns
+- [x] guns
 - [ ] enemies
 - [ ] map
 - [ ] tricks
@@ -30,7 +30,7 @@ tags:
 - [ ] bosses
 - [ ] main menu
 - [ ] level editor
-- [ ] infinite map
+- [x] infinite map
 - [ ] shop
 - [ ] shop-outfit
 - [ ] shop-bikes
