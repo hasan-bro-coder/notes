@@ -45,11 +45,12 @@
 
 1. batman arkham knight
 2. dying light the beast
-3. metro exodus
-4. subnautica 2
-5. nier automata
-6. alan wake
-7. just cause 3
-8. battle field 3
-9. dead space 3
-10. sleeping dog
+3. DOOM eternal
+4. metro exodus
+5. subnautica 2
+6. nier automata
+7. alan wake
+8. just cause 3
+9. battle field 3
+10. dead space 3
+11. sleeping dog

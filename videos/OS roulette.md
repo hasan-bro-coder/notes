@@ -1,0 +1,2 @@
+imagine a game os russian roulette but instead you, your operating system has to make that sacrifice.
+thats exactly what OS roulette . it you can play it with multiple friends. i nade it in python and websockets which makes peer to peer connection so no need for a server. the game is aimple you have a gun with 6 total chambers with 5 empty and 1 with a bullet you take turn shooting your pc if you get shot your pc dissapears. but if you do t die you pass ut to the next person. you can spin the chamber on each turn 

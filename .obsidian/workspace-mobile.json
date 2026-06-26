@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/Ideas.md",
+                "file": "life/Generational Wealth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Generational Wealth"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "study/Study.md",
+            "file": "life/Games.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,15 +170,21 @@
   },
   "active": "bb64909dab2e0c02",
   "lastOpenFiles": [
-    "study/Study.md",
+    "life/Games.md",
+    "life/Generational Wealth.md",
+    "life/Books/ikigai.md",
     "life/Ideas.md",
+    "videos/HTSS.md",
+    "life/Names Of Allah.md",
+    "life/discipline.md",
+    "life/Books.md",
+    "life/Books/Atomic Habits.md",
+    "study/Study.md",
+    "videos/OS roulette.md",
+    "videos/Wikipedia searcher.md",
     "games/On The Run Kanban.md",
     "study",
-    "life/Books/Atomic Habits.md",
-    "life/Books.md",
     "games/On The Run.md",
-    "life/Names Of Allah.md",
-    "life/Books",
-    "life/Games.md"
+    "life/Books"
   ]
 }

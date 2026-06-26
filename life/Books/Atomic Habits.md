@@ -4,11 +4,19 @@ this was one of the first book i read . i read it as an in ebook cause i pirated
 2. get 1% better every day
 3. habits change identity and identity changes habits
 4. habits help you become the person you want to be
-5. habit built by 4 thing: cue,craving,response,reward
-6. to build havits or break havits change those 4 things
+5. habit built by 4 thing:   
+    1. cue: make it obvious 
+    2. craving: make it attractive 
+    3. response
+    4. reward
+6. to build habits or break havits change those 4 things
 7. cue: 
     1.    be aware of what your doing what are your cues and habit
     2. make cue obvious with time and location
     3. habit stack to create cues for new habits (after \[habit\] do \[new habit\]).  
     4. associate cue with context 
 8. craving: 
+     1. anticipation gets us going more then fulfilment.
+     2. make boring habit attractive by temptation builiding
+     3. after the habit you do. do the habit you need then you can allow yourself to do the habit you want 
+9. 
