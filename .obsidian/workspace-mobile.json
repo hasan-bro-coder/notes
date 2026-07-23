@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/Generational Wealth.md",
+                "file": "study/Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generational Wealth"
+              "title": "Routine"
+            }
+          },
+          {
+            "id": "74d0fc1b8c2069f0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-12 14.08.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-12 14.08.03.excalidraw"
             }
           }
         ]
@@ -112,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "life/Games.md",
+            "file": "CP/CP mistakes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,8 +182,15 @@
   },
   "active": "bb64909dab2e0c02",
   "lastOpenFiles": [
-    "life/Games.md",
+    "CP/CP mistakes.md",
+    "study/Routine.md",
+    "Excalidraw/Drawing 2026-07-12 14.08.03.excalidraw.md",
+    "study/Routine.md",
+    "CP/notes.md",
     "life/Generational Wealth.md",
+    "Excalidraw",
+    "CP",
+    "life/Games.md",
     "life/Books/ikigai.md",
     "life/Ideas.md",
     "videos/HTSS.md",
