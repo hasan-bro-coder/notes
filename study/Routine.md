@@ -1,6 +1,6 @@
 # 90 Day SSC Study Plan
 
-- [ ] 01. Physics     (01) : Bangla      (01)
+- [x] 01. Physics     (01) : Bangla      (01) : 26/7
 - [ ] 02. Math        (01) : Others      (01)
 - [ ] 03. Biology     (01) : BGS         (01)
 - [ ] 04. Higher Math (01) : English     (01)
