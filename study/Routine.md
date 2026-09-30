@@ -1,49 +1,49 @@
 # 90 Day SSC Study Plan
 
 - [x] 01. Physics     (01) : Bangla      (01) : 26/7
-- [ ] 02. Math        (01) : Others      (01)
-- [ ] 03. Biology     (01) : BGS         (01)
-- [ ] 04. Higher Math (01) : English     (01)
-- [ ] 05. Chemistry   (01) : Bangla      (02)
-- [ ] 06. Math        (02) : Others      (02)
-- [ ] 07. Biology     (02) : Religion    (01)
-- [ ] 08. Biology     (02) : Bangla      (03)
-- [ ] 09. Higher Math (02) : BGS         (02)
-- [ ] 10. Physics     (02) : Others      (03)
-- [ ] 11. Chemistry   (02) : Bangla      (04)
-- [ ] 12. Mazzth        (03) : English     (02)
-- [ ] 13. Math        (03) : BGS         (03)
-- [ ] 14. Higher Math (03) : Others      (04)
-- [ ] 15. Higher Math (03) : Others      (04)
-- [ ] 16. Physics     (03) : Bangla      (05)
-- [ ] 17. Chemistry   (03) : Bangla      (06)
-- [ ] 18. Biology     (03) : BGS         (04)
-- [ ] 19. Math        (04) : Bangla      (07)
-- [ ] 20. Math        (04) : English     (03)
-- [ ] 21. Physics     (04) : Others      (05)
-- [ ] 22. Biology     (04) : Bangla      (08)
-- [ ] 23. Higher Math (04) : Religion    (02)
-- [ ] 24. Chemistry   (04) : BGS         (05)
-- [ ] 25. Math        (05) : Others      (06)
-- [ ] 26. Physics     (05) : Bangla      (09)
-- [ ] 27. Biology     (05) : English     (04)
-- [ ] 28. Higher Math (05) : Others      (07)
-- [ ] 29. Chemistry   (05) : Bangla      (10)
-- [ ] 30. Math        (06) : BGS         (06)
-- [ ] 31. Biology     (06) : BGS         (06)
-- [ ] 32. Higher Math (06) : Bangla      (11)
-- [ ] 33. Physics     (06) : Others      (08)
-- [ ] 34. Math        (07) : Bangla      (12)
-- [ ] 35. Chemistry   (06) : Others      (09)
-- [ ] 36. Biology     (07) : English     (05)
-- [ ] 37. Higher Math (07) : Bangla      (13)
-- [ ] 38. Math        (08) : Religion    (03)
-- [ ] 39. Math        (08) : Others      (10)
-- [ ] 40. Physics     (07) : BGS         (07)
-- [ ] 41. Chemistry   (07) : BGS         (07)
-- [ ] 42. Biology     (08) : Bangla      (14)
-- [ ] 43. Higher Math (08) : Bangla      (15)
-- [ ] 44. Higher Math (08) : Others      (11)
+- [x] 02. Math        (01) : Others      (01) : 28/7
+- [x] 03. Biology     (01) : BGS         (01) : 29/7
+- [x] 04. Higher Math (01) : English     (01) : 30/7
+- [x] 05. Chemistry   (01) : Bangla      (02) : 31/7
+- [x] 06. Math        (02) : Others      (02) : 1/8
+- [x] 07. Biology     (02) : Religion    (01) : 2/8
+- [x] 08. Biology     (02) : Bangla      (03) : 3/8
+- [x] 09. Higher Math (13) : BGS         (02) : 4/8
+- [x] 10. Physics     (02) : Others      (03) : 5/8
+- [x] 11. Chemistry   (02) : Bangla      (04) : 7/8
+- [x] 12. Math        (05) : English     (02) : 8/8
+- [x] 13. Math        (15) : BGS         (03) 10/8
+- [x] 14. Higher Math (03) : Others      (04) 10/8
+- [x] 15. Higher Math (03) : Others      (04) : 12/8
+- [x] 16. Physics     (03) : Bangla      (05) : 13/8
+- [x] 17. Chemistry   (03) : Bangla      (06) : 13/8
+- [x] 18. Biology     (03) : BGS         (04) : 19/8
+- [x] 19. Math        (04) : Bangla      (07) :19/8
+- [x] 20. Math        (04) : English     (03) : 21 / 8
+- [x] 21. Physics     (06) : Others      (05) :22/8
+- [x] 22. Biology     (04) : Bangla      (08)
+- [x] 23. Higher Math (04) : BGS    (05)
+- [x] 24. Chemistry   (07) : Religion       (02)
+- [x] 25. Math        (06) : Others      (06)
+- [x] 26. Physics     (08) : Bangla      (09)
+- [x] 27. Biology     (05) : English     (04) : 2/9
+- [x] 28. Higher Math (05) : Others      (07)
+- [x] 29. Chemistry   (05) : Bangla      (10)
+- [x] 30. Higher Math (12) : BGS         (06)
+- [x] 31. Biology     (06) : BGS         (06) 9/9
+- [x] 32. Math         (14) : Bangla      (11)
+- [x] 33. Physics     (09) : Others      (08)
+- [x] 34. Math        (07) : Bangla      (12) 14/9
+- [x] 35. Chemistry   (06) : Others      (09) 16/9
+- [x] 36. Biology     (07) : English     (05) 17/9
+- [x] 37. Higher Math (07) : Bangla      (13)
+- [x] 38. Math        (08) : Religion    (03)
+- [x] 39. Math        (08) : Others      (10)
+- [x] 40. Physics     (04) : BGS         (07)
+- [x] 41. Chemistry   (07) : BGS         (07)
+- [x] 42. Biology     (06) : Bangla      (14)
+- [x] 43. Higher Math (08) : Bangla      (15)
+- [x] 44. Higher Math (08) : Others      (11)
 - [ ] 45. Physics     (08) : English     (06)
 - [ ] 46. Math        (09) : Bangla      (16)
 - [ ] 47. Math        (09) : Others      (12)

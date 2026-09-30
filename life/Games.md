@@ -24,22 +24,26 @@
 7. factorio space age                (11/10)
 8. Wolfenstein:the new order   (8/10)
 9. dead space 2                          (?/10)
+10. ULTRAKILL                             (7.5/10)
+11. Nine sols                                ()
 
 ## didnt finish:
 
 1. mirrors edge
-2. subnautica
-3. assassin's creed: 3
-4. assassin's creed: unity
-5. BLUR
-6. half life 2
-7. god of war 3 (🐌)
-8. my friend pedro                     (8/10)
-9. hollow knight silksong
-10. need for speed: rivals 
-11. sniper elite 3
-12. alien shooter
-13. hitman: blood money
+2. little nightmare
+3. mindustry
+4. subnautica
+5. assassin's creed: 3
+6. assassin's creed: unity
+7. BLUR
+8. half life 2
+9. god of war 3 (🐌)
+10. my friend pedro                     (8/10)
+11. hollow knight silksong
+12. need for speed: rivals 
+13. sniper elite 3
+14. alien shooter
+15. hitman: blood money
 
 ## want to play:
 

@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Routine"
             }
-          },
-          {
-            "id": "74d0fc1b8c2069f0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-07-12 14.08.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-12 14.08.03.excalidraw"
-            }
           }
         ]
       }
@@ -49,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -124,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CP/CP mistakes.md",
+            "file": "study/Routine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,40 +159,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "bases:Create new base": false
     }
   },
   "active": "bb64909dab2e0c02",
   "lastOpenFiles": [
-    "life/discipline.md",
-    "life/Generational Wealth.md",
+    "life/Ideas.md",
+    "life/Things husain said in his sleep.md",
     "study/Routine.md",
+    "study/Study.md",
+    "life/discipline.md",
+    "Books/Books.md",
+    "life/Better hasan.md",
+    "life/Generational Wealth.md",
+    "videos/HTSS.md",
+    "videos/OS roulette.md",
+    "videos/LUTs.md",
+    "life/Games.md",
     "CP/CP mistakes.md",
     "Excalidraw/Drawing 2026-07-12 14.08.03.excalidraw.md",
     "CP/notes.md",
     "Excalidraw",
     "CP",
-    "life/Games.md",
-    "life/Books/ikigai.md",
-    "life/Ideas.md",
-    "videos/HTSS.md",
+    "Books/ikigai.md",
     "life/Names Of Allah.md",
-    "life/Books.md",
-    "life/Books/Atomic Habits.md",
-    "study/Study.md",
-    "videos/OS roulette.md",
+    "Books/Atomic Habits.md",
     "videos/Wikipedia searcher.md",
     "games/On The Run Kanban.md",
     "study",
     "games/On The Run.md",
-    "life/Books"
+    "Books"
   ]
 }

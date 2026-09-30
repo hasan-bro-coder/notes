@@ -9,7 +9,7 @@
 9. TITILIKA PASA
 10. Aiya sikko shi
 11. POTH ekta gali
-12. magna piso to eto complaint kan
+12. magna paiso to eto complaint kan
 13. Loki hoe jai
 14. im only human afterall
 15. ai mera budha mar geya
